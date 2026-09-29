@@ -18,6 +18,7 @@ footer {
     margin-top: 30px;
     font-size: 14px;
 }
+
 .mascote {
     background-color: #222;
     padding: 20px;
@@ -25,10 +26,12 @@ footer {
     max-width: 500px;
     border-radius: 10px;
 }
+
 .mascote img {
     width: 200px;
     border-radius: 10px;
-} 
+}
+
 .mascote h2 {
     font-size: 30px;
     margin-bottom: 15px;
