@@ -36,3 +36,6 @@ footer {
     font-size: 30px;
     margin-bottom: 15px;
 }
+.mascote img:hover {
+    transform: scale(1.1);
+}
