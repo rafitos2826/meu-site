@@ -49,6 +49,10 @@ footer {
     max-width: 500px;
     border-radius: 10px;
 }
+.titulos li {
+    transition: transform 0.2s;
+}
+
 .titulos li:hover {
     transform: scale(1.05);
 }
