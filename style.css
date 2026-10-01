@@ -72,8 +72,12 @@ button:hover {
     color: #111;h1 {
     transition: transform 0.2s;
 }
+    h1 {
+    transition: transform 0.2s;
+}
 
 h1:hover {
     transform: scale(1.05);
+}
 }
 }
