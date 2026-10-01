@@ -65,3 +65,6 @@ color: white;
 border: 2px solid white;
 border-radius: 8px;
 }
+button:hover {
+    transform: scale(1.05);
+}
