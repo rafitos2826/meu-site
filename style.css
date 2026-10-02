@@ -79,4 +79,10 @@ h1 {
 h1:hover {
     transform: scale(1.05);
 }    
-
+.idolos {
+    background-color: #222;
+    padding: 20px;
+    margin: 30px auto;
+    max-width: 500px;
+    border-radius: 10px;
+}
